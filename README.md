@@ -1,2 +1,2 @@
 # MPLab
-All Programs In MP Lab
+Contains all programs as part of Microprocessor course
